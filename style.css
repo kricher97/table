@@ -1,0 +1,25 @@
+
+table, th, td {
+        margin-top: 100px;
+        font-family: 'Noto Serif JP', sans-serif;
+        text-align: center;
+        border-collapse: collapse;
+       
+     }
+     tr:hover {
+        background-color: #ffff99;
+
+      }
+    
+      td:hover {
+        background-color: #99b4ff;
+        text-align: center;
+      }
+      table{
+        padding: 100px;
+      }
+      td, th {
+        border: .5px solid black;
+        
+      }
+      
